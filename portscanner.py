@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 
-# Student Name: Siew Kai Yuan Kenneth
-# Student Code: 1690073G
-# Class Code: CCK4250916
-# Lecturer's Name: James
-
 # Import of required services
 import socket
 import concurrent.futures
