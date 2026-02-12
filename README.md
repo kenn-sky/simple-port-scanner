@@ -1,4 +1,4 @@
-# simple-port-scanner
+# Simplre Port Scanner
 
 Overview:
 This project involves creating a port scanning tool used to probe a target system or network to identify which ports are open and listening for connections. This project introduces beginners to key cybersecurity concepts like networking, sockets, and TCP/UDP communication while strengthening Python skills.
