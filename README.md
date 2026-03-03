@@ -1,20 +1,9 @@
-# Simple Port Scanner
+📌 Project Overview
 
-Overview:
-This project involves creating a port scanning tool used to probe a target system or network to identify which ports are open and listening for connections. This project introduces beginners to key cybersecurity concepts like networking, sockets, and TCP/UDP communication while strengthening Python skills.
+Identifying open "doors" on a network is critical for vulnerability management but often relies on black-box tools.
+Scripted a socket-based scanner to probe TCP ports and check service availability.
 
-Project Goals:
-● Learn to use Python's socket module.
-● Understand the basics of port scanning and network security.
-● Develop a simple tool to scan for open ports on a target system.
-● Understand the concept of open ports and why securing them is critical.
 
-Features of the Port Scanner:
-1. Accepts a target IP address or hostname.
-2. Allows the user to specify a range of ports to scan.
-3. Scans for open TCP or UDP ports.
-4. Prints the results (open ports) in a user-friendly format.
-5. Retrieve and display service banners for open ports.
-6. Save scan results to a file for later analysis.
-7. Add functionality to ping a range of IPs to discover live hosts.
-8. Speed up scanning by checking multiple ports simultaneously (Multi-Threading).
+🛡️ Cybersecurity Application
+
+This project showcases my ability to perform Vulnerability Management. Understanding which services (SSH, HTTP, etc.) are exposed is the first step in hardening a system and reducing organisational risk.
